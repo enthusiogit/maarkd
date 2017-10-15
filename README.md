@@ -1,4 +1,4 @@
-# [Maarkd](https://maarkd.com)
+# [Maarkd](http://maarkd.com)
 
 [Maarkd](http://maarkd.com) is a landing page for the Maarkd parking app. Created by [Start Bootstrap](http://startbootstrap.com/) edited by Steven Worrall.
 
